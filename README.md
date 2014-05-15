@@ -1,6 +1,6 @@
 # HLMeasureIt
 
-HLMeasureIt is an lightweight Photoshop script that allow user to simply create measures of any element.
+HLMeasureIt is a lightweight Photoshop script that allows user to simply draw measures of any element.
 
 ## Installation
 
@@ -14,7 +14,7 @@ If you feel easy with Git, create a submodule to make updates easier.
 You can bind the script on a keyboard shortcut.
 
  * Open Window > Scripts, and create a new script. Name it `HLMeasureIt` and select your favorite keyboard shortcut.
- * Run File > Script > HLMeasureIt (for the last time).
+ * Run File > Scripts > HLMeasureIt (for the last time).
  * Stop script recording. It's done, you can now run the script with your shortcut.
 
 ## Credits
