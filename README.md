@@ -2,6 +2,8 @@
 
 HLMeasureIt is a lightweight Photoshop script that allows user to simply draw measures of any element.
 
+![HLMeasureIt Sample](https://github.com/github/hlmeasureit/raw/master/README-files/hlmeasureit-sample1.png)
+
 ## Installation
 
  * Drag the `HLMeasureIt.jsx` file into _<Photoshop Installation Folder>_/Presets/Scripts/.
